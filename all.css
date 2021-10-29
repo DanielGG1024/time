@@ -1354,7 +1354,6 @@ header .hamburger::after {
   }
   .secondary .title {
     font-size: 20px;
-    background-color: green;
   }
   .secondary .image-credit {
     display: none;
