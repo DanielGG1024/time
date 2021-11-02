@@ -285,8 +285,8 @@ a:visited {
 
 .main-header .navbar-toggle ~ nav {
   top: 100%;
-  -webkit-transform: translate(-300px);
-          transform: translate(-300px);
+  -webkit-transform: translate(-500px);
+          transform: translate(-500px);
   -webkit-transform-origin: left;
           transform-origin: left;
   position: relative;
