@@ -242,7 +242,8 @@ a:visited {
   .navbar-toggle ~ nav {
     top: 100%;
     transform: translateX(-500px);
-    position: relative;
+    position: absolute;
+    // position: relative;
     z-index: 200;
     transition: transform 0.5s ease-in-out;
   }
