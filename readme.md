@@ -1,6 +1,7 @@
 # TIME時代雜誌(切版)
 
 ![](./time-pic.png)
+<br>
 ![連結](https://danielgg1024.github.io/time/)
 <br>
 * 模仿時代雜誌的切版練習 使用grid及flex做大區塊的排版
