@@ -285,8 +285,8 @@ a:visited {
 
 .main-header .navbar-toggle ~ nav {
   top: 100%;
-  -webkit-transform: scale(0, 1);
-          transform: scale(0, 1);
+  -webkit-transform: translate(-300px);
+          transform: translate(-300px);
   -webkit-transform-origin: left;
           transform-origin: left;
   position: relative;
@@ -321,8 +321,8 @@ a:visited {
 }
 
 .main-header .navbar-toggle:checked ~ .nav {
-  -webkit-transform: scale(1, 1);
-          transform: scale(1, 1);
+  -webkit-transform: translate(0);
+          transform: translate(0);
   opacity: 1;
 }
 
@@ -385,8 +385,8 @@ a:visited {
 }
 
 .main-header .navbar-toggle:checked ~ .searchbar {
-  -webkit-transform: translateX(0px);
-          transform: translateX(0px);
+  -webkit-transform: translate(0px);
+          transform: translate(0px);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
